@@ -1,6 +1,6 @@
 {
   "appId": "76d1d4f7-96df-43fe-a3e9-7e5674408445",
-  "appDisplayName": "Travel Request App CodeApps",
+  "appDisplayName": "Leave Request App",
   "description": null,
   "environmentId": "2e4ff4ce-5107-eaa2-b6dd-a2832dee7708",
   "buildPath": "./dist",
